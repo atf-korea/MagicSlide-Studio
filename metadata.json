@@ -1,0 +1,5 @@
+{
+  "name": "Copy of MagicSlide Studio",
+  "description": "A browser-based studio to turn images into narrated videos using Gemini TTS.",
+  "requestFramePermissions": []
+}
